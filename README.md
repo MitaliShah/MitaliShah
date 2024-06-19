@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hi there! I'm Mitali, a passionate web developer with a love for coding and problem-solving.
+### Hi there 👋 I'm Mitali, a passionate web developer with a love for coding and problem-solving.
 
 Best way to get in touch with me: [LinkedIn](https://www.linkedin.com/in/mitali-shaleen-shah/)
 
